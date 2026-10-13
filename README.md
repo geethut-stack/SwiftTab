@@ -138,3 +138,6 @@ Bug reports with your Windows build, monitor setup and the window involved are t
 
 MIT. See [LICENSE](LICENSE).
 
+## Acknowledgments
+
+- [AutoHotkey](https://www.autohotkey.com/) — scripting language for Windows automation
