@@ -1,5 +1,9 @@
 # SwiftTab
-<p> <a href="../../releases/latest"><img alt="Latest release" src="https://img.shields.io/github/v/release/YOURNAME/SwiftTab"></a> <img alt="AutoHotkey v2" src="https://img.shields.io/badge/AutoHotkey-v2-334455"> <img alt="Windows 10/11" src="https://img.shields.io/badge/Windows-10%20%7C%2011-0078d4"> <img alt="License MIT" src="https://img.shields.io/badge/license-MIT-green"> </p>
+![Platform](https://img.shields.io/badge/platform-Windows%2010%20%7C%2011-0078d4?logo=windows)
+![Language](https://img.shields.io/badge/language-AutoHotkey%20v2-334455?logo=autohotkey)
+[![Release](https://img.shields.io/github/v/release/geethut-stack/SwiftTab)](https://github.com/YOURNAME/SwiftTab/releases/latest)
+[![Downloads](https://img.shields.io/github/downloads/geethut-stack/SwiftTab/total)](https://github.com/YOURNAME/SwiftTab/releases)
+[![License: MIT](https://img.shields.io/github/license/geethut-stack/SwiftTab)](LICENSE)
 **A light, fast Alt+Tab replacement for Windows 10/11, written in a single AutoHotkey v2 file.**
 
 Instant overlay, live window previews, search, same-app switching, and a quick tap that switches with no UI at all. No installer, no background service, no idle CPU.
