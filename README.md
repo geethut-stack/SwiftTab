@@ -5,7 +5,7 @@
 Instant overlay, live window previews, search, same-app switching, and a quick tap that switches with no UI at all. No installer, no background service, no idle CPU.
 
 <!-- Replace with a real GIF: 800px wide, ~10s, shows Alt+Tab, search, close-window -->
-
+src="https://img.shields.io/github/v/release/YOURNAME/SwiftTab"></a> <img alt="AutoHotkey v2" src="https://img.shields.io/badge/AutoHotkey-v2-334455"> <img alt="Windows 10/11" src="https://img.shields.io/badge/Windows-10%20%7C%2011-0078d4"> <img alt="License MIT" src="https://img.shields.io/badge/license-MIT-green"> </p>
 <p>
 <img width="972" height="342" alt="image" src="https://github.com/user-attachments/assets/9be00876-46ae-49d2-9669-cb1a18625969" />
 </p>
