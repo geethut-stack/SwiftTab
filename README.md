@@ -133,3 +133,8 @@ It's a single AutoHotkey process. Measure it on your machine and report numbers 
 ## Contributing
 
 Bug reports with your Windows build, monitor setup and the window involved are the most useful thing you can send. Pull requests that keep the script small are welcome.
+
+## License
+
+MIT. See [LICENSE](LICENSE).
+
