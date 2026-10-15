@@ -41,7 +41,7 @@ The built-in Alt+Tab has a long list of everyday annoyances: blank thumbnails, l
 
 **Option A: run the script** (recommended)
 1. Install [AutoHotkey v2](https://www.autohotkey.com/).
-2. Download `SwiftTab.ahk` and double-click it.
+2. Download `SwiftTab.ahk` from [Releases](../../releases) and double-click it.
 3. Press Alt+Tab.
 
 To start with Windows, put a shortcut to the script in `shell:startup`.
