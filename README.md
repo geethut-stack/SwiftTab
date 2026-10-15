@@ -13,8 +13,7 @@ Instant overlay, live window previews, search, same-app switching, and a quick t
 
 <!-- Replace with a real GIF: 800px wide, ~10s, shows Alt+Tab, search, close-window -->
 
-<img width="972" height="342" alt="image" src="https://github.com/user-attachments/assets/9be00876-46ae-49d2-9669-cb1a18625969" />
-
+<img width="953" height="295" alt="image" src="https://github.com/user-attachments/assets/90a18761-c505-4add-b11e-4e05cc3abe09" />
 
 ---
 
