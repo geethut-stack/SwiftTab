@@ -59,7 +59,10 @@ Download `SwiftTab.exe` from [Releases](../../releases). Compiled AutoHotkey pro
 | `Tab`, `Down`, `Up`, `Right`, `Left`, `Home`, `End` | Move (wraps) |
 | Release `Alt` or `Enter` | Switch |
 | `Esc` | Cancel |
-| `Delete` | Close selected window |
+| `Delete` or click `×` on a row | Close that window (save prompts are brought to the front) |
+| `Shift+Delete` or `Shift+click ×` | Force-kill its whole process (not Store apps or Explorer) |
+| Click the preview | Switch to that window |
+| **Close window** button above the preview | Close the selected window |
 | `1`-`9` | Jump to nth window |
 | `/` | Search (type, then `Enter`) |
 | `m` | Toggle this-monitor-only |
